@@ -1,5 +1,14 @@
-channles:
+name: venv
+channels:
+  - anaconda
+  - cvxgrp
   - conda-forge
+  - defaults
 dependencies:
-  - numpy==1.18.1
-  - scikit-learn==0.22.2.post1
+  - streamlit
+  - pandas
+  - plotly
+  - matplotlib
+  - seaborn
+  - streamlit_lottie
+  - json
