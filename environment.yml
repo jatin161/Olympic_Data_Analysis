@@ -10,5 +10,4 @@ dependencies:
   - plotly
   - matplotlib
   - seaborn
-  - streamlit_lottie
-  - json
+
